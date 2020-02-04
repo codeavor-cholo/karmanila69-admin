@@ -1,0 +1,35 @@
+{
+  "name": "karmanila69-admin",
+  "version": "0.0.1",
+  "description": "Karmanila69 Admin Dashboard",
+  "productName": "karmanila69-admin",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "Cholz Del Rosario <chomigz12@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.18.1",
+    "busboy": "^0.3.1",
+    "child-process-promise": "^2.2.1",
+    "firebase": "^7.8.0",
+    "quasar": "^1.0.0",
+    "simple-random-id": "^1.0.1",
+    "vue-chart-js": "^1.4.1",
+    "vue-firestore": "^0.3.30"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
