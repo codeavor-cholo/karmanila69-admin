@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "karmanila69-f7a2a"
+  },
+  "targets": {
+    "karmanila69-f7a2a": {
+      "hosting": {
+        "admin": [
+          "karmanila69-admin"
+        ]
+      }
+    }
   }
 }
