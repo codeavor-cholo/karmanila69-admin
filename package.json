@@ -22,7 +22,7 @@
     "vue-firestore": "^0.3.30"
   },
   "devDependencies": {
-    "@quasar/app": "^1.0.0"
+    "@quasar/app": "^2.4.3"
   },
   "engines": {
     "node": ">= 10.18.1",
